@@ -6,42 +6,27 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.probono.LoginActivity">
+    tools:context="com.LoginActivity">
 
-
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="@color/colorPrimary"
-            android:orientation="vertical">
+            android:layout_height="225dp"
+            android:orientation="vertical"
+            android:background="@color/colorPrimary">
 
             <ImageView
-                android:layout_width="250dp"
-                android:layout_height="250dp"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
                 android:layout_gravity="center"
-                android:layout_margin="120dp"
-                android:src="@drawable/boda"/>
-            <ImageView
-                android:id="@+id/kakaologin"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:src="@drawable/kakao_login_large_wide"/>
-            <Button
-                android:id="@+id/kakaologout"
-                android:text="로그아웃"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_margin="20dp"/>
 
-        </LinearLayout>
-    <ImageView
-        android:id="@+id/profile"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-        android:layout_gravity="center"/>
-    <TextView
-        android:id="@+id/nickname"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
 
+
+    </LinearLayout>
+    </LinearLayout>
 </RelativeLayout>
