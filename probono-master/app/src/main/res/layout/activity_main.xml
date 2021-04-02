@@ -10,7 +10,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="306dp"
         android:background="@color/black"
         android:orientation="vertical">
 
@@ -30,10 +30,10 @@
             android:textStyle="bold" />
 
         <ImageView
-            android:layout_width="298dp"
-            android:layout_height="161dp"
+            android:layout_width="230dp"
+            android:layout_height="90dp"
             android:layout_gravity="center"
-            android:layout_margin="80dp"
+            android:layout_margin="20dp"
             android:src="@drawable/voda2" />
 
 
@@ -41,8 +41,8 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="413dp"
-        android:layout_marginTop="400dp"
+        android:layout_height="477dp"
+        android:layout_marginTop="300dp"
         android:background="@color/black"
         android:orientation="vertical">
 
