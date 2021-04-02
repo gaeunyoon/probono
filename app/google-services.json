@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388998679509",
+    "project_id": "probono-c7ca8",
+    "storage_bucket": "probono-c7ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388998679509:android:333ccc2e6bf109f99ccb5c",
+        "android_client_info": {
+          "package_name": "com.example.probono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388998679509-kiagqqkmhlaan4tfftf8pv5mtqogso5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7jDd6tGtzWH--Ai5NdgG2u0dJi1kcG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388998679509-kiagqqkmhlaan4tfftf8pv5mtqogso5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
